@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="天青色">#a7ebf5</color>
+    <color name="藏青色">#7fc7d2</color>
+    <color name="青色">#044149</color>
+    <color name="白色">#ffffff</color>
+    <color name="粉紫色">#ed91ec</color>
+</resources>
